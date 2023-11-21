@@ -1,0 +1,21 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "book flights cheaply",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm install node-fetch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nil"
+  },
+  "keywords": [
+    "nil"
+  ],
+  "author": "helpmh studios",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

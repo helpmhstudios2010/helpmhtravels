@@ -1,0 +1,41 @@
+body
+{
+background-image: linear-gradient(to left bottom, #f100c1, #9d25d9, #0c0ff0, #aa820a, #94004c);
+}
+.home
+{
+    font-family: 'Yuji Mai', serif;
+    color: cyan;
+    font-size: 20px;
+}
+.footer
+{
+    position: fixed;
+    color: cyan;
+    bottom: 0;
+    width: 100%;
+    background-color: royalblue;
+    line-height: 6;
+    text-align: center;
+    font-size: 70px;    
+    font-family: 'Yuji Mai', serif;
+}
+.inputs 
+{
+    border-radius: 5px;
+    width: 15%;
+}
+.button
+{
+    font-family: 'Yuji Mai', serif;
+    color: royalblue;
+    font-size: 20px;
+    border-radius: 7px;
+    background-color: #cce5ff;
+}
+.heading
+{
+    font-family: 'Yuji Mai', serif;
+    color: cyan;
+    font-size: 50px;
+}
